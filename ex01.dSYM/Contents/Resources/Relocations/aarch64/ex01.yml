@@ -1,0 +1,12 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/user/Documents/Programming/Graphs Algorithms/gaphs/ex01'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _initializeGraph, symObjAddr: 0x0, symBinAddr: 0x100003904, symSize: 0x100 }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _initializeGraph, symObjAddr: 0x0, symBinAddr: 0x100003904, symSize: 0x100 }
+  - { offsetInCU: 0xCB, offset: 0xCB, size: 0x8, addend: 0x0, symName: _insertGraph, symObjAddr: 0x100, symBinAddr: 0x100003A04, symSize: 0x44 }
+  - { offsetInCU: 0x10B, offset: 0x10B, size: 0x8, addend: 0x0, symName: _printGraph, symObjAddr: 0x144, symBinAddr: 0x100003A48, symSize: 0xC0 }
+  - { offsetInCU: 0x175, offset: 0x175, size: 0x8, addend: 0x0, symName: _paintCompost, symObjAddr: 0x204, symBinAddr: 0x100003B08, symSize: 0x1E8 }
+  - { offsetInCU: 0x245, offset: 0x245, size: 0x8, addend: 0x0, symName: _paintGraph, symObjAddr: 0x3EC, symBinAddr: 0x100003CF0, symSize: 0xFC }
+  - { offsetInCU: 0x2AF, offset: 0x2AF, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x4E8, symBinAddr: 0x100003DEC, symSize: 0x118 }
+...
