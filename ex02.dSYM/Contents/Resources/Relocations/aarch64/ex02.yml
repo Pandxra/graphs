@@ -1,0 +1,13 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/user/Documents/Programming/Graphs Algorithms/gaphs/ex02'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _initializeGraph, symObjAddr: 0x0, symBinAddr: 0x100003820, symSize: 0x11C }
+  - { offsetInCU: 0x12E, offset: 0x12E, size: 0x8, addend: 0x0, symName: _initializeGraph, symObjAddr: 0x0, symBinAddr: 0x100003820, symSize: 0x11C }
+  - { offsetInCU: 0x1B8, offset: 0x1B8, size: 0x8, addend: 0x0, symName: _insertEdge, symObjAddr: 0x11C, symBinAddr: 0x10000393C, symSize: 0x1A0 }
+  - { offsetInCU: 0x222, offset: 0x222, size: 0x8, addend: 0x0, symName: _dfsVisit, symObjAddr: 0x2BC, symBinAddr: 0x100003ADC, symSize: 0x114 }
+  - { offsetInCU: 0x262, offset: 0x262, size: 0x8, addend: 0x0, symName: _dfsGraph, symObjAddr: 0x3D0, symBinAddr: 0x100003BF0, symSize: 0x84 }
+  - { offsetInCU: 0x2A2, offset: 0x2A2, size: 0x8, addend: 0x0, symName: _dfsGT, symObjAddr: 0x454, symBinAddr: 0x100003C74, symSize: 0xB4 }
+  - { offsetInCU: 0x302, offset: 0x302, size: 0x8, addend: 0x0, symName: _compare, symObjAddr: 0x508, symBinAddr: 0x100003D28, symSize: 0x38 }
+  - { offsetInCU: 0x354, offset: 0x354, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x540, symBinAddr: 0x100003D60, symSize: 0x1E8 }
+...
