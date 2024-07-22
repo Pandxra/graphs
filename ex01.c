@@ -1,4 +1,9 @@
 /*
+Algoritmos em Grafos
+Nome: Cínthia Souza Costa   RA: 792173
+*/
+
+/*
 Dado um conjunto de compostos químicos fornecer uma lista dos compostos químicos aos quais esse composto tem relação de imcopatibilidade
 
 Entrada: N(número de compostos - 1 a 600) e M(relações de imcompatibilidade - 1 a 10_000)

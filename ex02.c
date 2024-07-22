@@ -1,3 +1,13 @@
+/* 
+Algoritmos em Grafos
+Nome: Cínthia Souza Costa   RA:792173
+*/
+
+/* 
+    Dado um projeto de cruzamento de ruas, que podem ser de mão única ou mão dupla verificar se o projeto se adequa a seguinte condição a partir de um cruzamento chegar a qualquer outro cruzamento do projeto.
+*/
+
+
 #include <stdio.h>
 #include <stdlib.h>
 
